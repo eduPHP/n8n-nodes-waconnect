@@ -1,0 +1,18 @@
+{
+    "node": "n8n-nodes-waconnect",
+    "nodeVersion": "1.0",
+    "codexVersion": "1.0",
+    "categories": ["WA Connect"],
+    "resources": {
+        "credentialDocumentation": [
+            {
+                "url": "https://github.com/eduPHP/wa-connect-baileys?tab=readme-ov-file#credentials"
+            }
+        ],
+        "primaryDocumentation": [
+            {
+                "url": "https://github.com/eduPHP/wa-connect-baileys?tab=readme-ov-file"
+            }
+        ]
+    }
+}
