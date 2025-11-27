@@ -11,7 +11,7 @@ class WaconnectApi {
                 displayName: 'Base URL',
                 name: 'baseUrl',
                 type: 'hidden',
-                default: 'http://host.docker.internal:9012',
+                default: 'https://wa-connect.rdo.blog.br',
                 description: 'Root URL of your WaConnect server',
                 required: true,
             },
