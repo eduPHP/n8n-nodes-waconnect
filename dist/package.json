@@ -34,7 +34,8 @@
             "dist/credentials/WaconnectApi.credentials.js"
         ],
         "nodes": [
-            "dist/nodes/Waconnect/Waconnect.node.js"
+            "dist/nodes/Waconnect/Waconnect.node.js",
+            "dist/nodes/Waconnect/WaconnectReact.node.js"
         ]
     },
     "devDependencies": {
