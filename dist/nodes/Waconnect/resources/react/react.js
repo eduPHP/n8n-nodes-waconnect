@@ -102,7 +102,7 @@ exports.reactionDescription = [
         routing: {
             request: {
                 method: 'POST',
-                url: '={{$credentials.baseUrl}}/messages/react',
+                url: '={{$credentials.baseUrl}}/api/messages/react',
                 headers: {
                     Authorization: '=Bearer {{$credentials.accessToken}}',
                     'Content-Type': 'application/json',

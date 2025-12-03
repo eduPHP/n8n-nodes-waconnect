@@ -121,7 +121,7 @@ exports.sendTextFields = [
         routing: {
             request: {
                 method: 'POST',
-                url: '={{$credentials.baseUrl}}/messages/text',
+                url: '={{$credentials.baseUrl}}/api/messages/text',
                 headers: {
                     Authorization: '=Bearer {{$credentials.accessToken}}',
                     'Content-Type': 'application/json',

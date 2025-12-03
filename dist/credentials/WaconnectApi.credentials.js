@@ -35,7 +35,7 @@ class WaconnectApi {
         this.test = {
             request: {
                 method: 'POST',
-                url: '={{$credentials.baseUrl}}/sessions/test',
+                url: '={{$credentials.baseUrl}}/api/sessions/test',
             },
         };
         this.icon = 'file:waconnect.svg';
